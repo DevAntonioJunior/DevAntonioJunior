@@ -4,4 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?=DevAntonioJunior)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <a href="https://www.linkedin.com/in/antonio-junior-062247116/">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevAntonioJunior&show_icons=dark&include_all_comits=true&count_private=true"/>
+    </div>
+  
